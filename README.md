@@ -3,7 +3,7 @@
 ITForGreen est un projet visant à développer un chatbot intelligent qui aide les utilisateurs à calculer et comprendre l'empreinte carbone liée à leur utilisation des technologies numériques. Ce chatbot utilise l'intelligence artificielle (IA) pour analyser les habitudes d'utilisation des utilisateurs et fournir des estimations sur l'empreinte carbone générée par leurs activités en ligne.
 
 
-![Acceuil](image.png)
+![Acceuil](/img/home.png)
 ## Objectifs du projet
 
 Le principal objectif de ce projet est de sensibiliser les utilisateurs à l'impact environnemental de leurs comportements numériques, tout en leur fournissant des informations pertinentes pour réduire leur empreinte carbone. En plus du calcul de l'empreinte carbone, le chatbot offre des conseils et des recommandations pratiques pour rendre l'utilisation des technologies plus respectueuse de l'environnement.
