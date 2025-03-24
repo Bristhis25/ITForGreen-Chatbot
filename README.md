@@ -16,4 +16,5 @@ Le principal objectif de ce projet est de sensibiliser les utilisateurs à l'imp
 
 ## Technologies utilisées
 
--
+- HTML, CSS , JavaScript pour le front-end
+- 
